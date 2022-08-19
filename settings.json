@@ -1,0 +1,20 @@
+{
+  "tokens": [
+    "MTAxMDI2ODExODg1MTAwMjQ1OQ.Gsu4MT.gcdtnrQXPdF4hU0ofjWRYDYgyeIuMgRFiCYXrY",
+    "BOT TOKEN 2",
+    "BOT TOKEN 3" ],
+  
+  "channels": [
+    "1009490373242003460",
+    "SES ODASI 2",
+    "SES ODASI 3" ],
+
+  "staffRoles": [
+    "1010271620864155778"],
+
+  "unregisterRoles": [
+    "1010271190415323146"],
+  
+  "welcomeSound": "https://cdn.discordapp.com/attachments/856807536765698049/859455073486503936/hosgeldin.mp3",
+  "staffSound": "https://cdn.discordapp.com/attachments/856807536765698049/859455065609076806/yetkili.mp3"
+}
